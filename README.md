@@ -2,7 +2,7 @@
 <h3 align="center"> I'm Gabriella! <br> Front-End Developer & Designer 💻 </h3>
 
 <p align="center">
-<img  src=https://img.shields.io/badge/English-intermediary-blue/>
+<img  src=https://img.shields.io/badge/English-advanced-blue/>
 <img  src="https://img.shields.io/badge/Spanish-intermediary-blue"/>
 </p>
 
