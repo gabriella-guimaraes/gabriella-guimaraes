@@ -1,5 +1,5 @@
 <h1 align="center">< Hello there /></h1>
-<h3 align="center"> I'm Gabriella! <br> Front-End Developer & Designer 💻 </h3>
+<h3 align="center"> I'm Gabriella! <br> Fullstack Developer & Designer 💻 </h3>
 
 <p align="center">
 <img  src=https://img.shields.io/badge/English-advanced-blue/>
