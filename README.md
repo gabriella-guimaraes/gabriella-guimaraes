@@ -1,8 +1,12 @@
 <h1 align="center">< Hello there /></h1>
 <h3 align="center"> I'm Gabriella! <br> Fullstack Developer & Designer 💻 </h3>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/gabriella-guimaraes/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://gabriellaguimaraesdev.vercel.app/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:gabriellaguimaraes01@outlook.com)
+
+<p align="center">
+  <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriella-guimaraes/)"/>
+  <img alt="Personal" src="https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://gabriellaguimaraesdev.vercel.app/" />
+  <img alt="Outlook"  src="https://img.shields.io/badge/-gabriellaguimaraes01@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellaguimaraes01@outlook.com" />
+</p>
+  
 
 <p align="center">
 <img  src=https://img.shields.io/badge/English-advanced-blue/>
