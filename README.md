@@ -1,5 +1,8 @@
 <h1 align="center">< Hello there /></h1>
 <h3 align="center"> I'm Gabriella! <br> Fullstack Developer & Designer 💻 </h3>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/gabriella-guimaraes/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://gabriellaguimaraesdev.vercel.app/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:gabriellaguimaraes01@outlook.com)
 
 <p align="center">
 <img  src=https://img.shields.io/badge/English-advanced-blue/>
@@ -8,7 +11,7 @@
 
 - Graduated at [Laboratoria's](https://github.com/Laboratoria) Bootcamp 
 - You can find my projects in: [gabriella.guimarães.net.br](https://github.com/gabriella-guimaraes)
-- Contact: **gabigara13@gmail.com**
+- Contact: **gabriellaguimaraes01@outlook.com**
 - Don't be a stranger! Let's talk about technology anytime 💬
 
 ---
@@ -24,7 +27,7 @@
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-<img alt="Bootstrap" src=""/https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white/>  
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white/">  
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
