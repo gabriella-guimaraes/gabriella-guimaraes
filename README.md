@@ -1,6 +1,6 @@
 <p align="center" style="margin: 0; padding: 0;">
   <img 
-    src="./assets/gradient-bg-code-and-coffe.png" 
+    src="./assets/bg-cover.png" 
     alt="Banner"
     style="width: 100%; max-height: 250px; object-fit: cover; display: block;"
   />
